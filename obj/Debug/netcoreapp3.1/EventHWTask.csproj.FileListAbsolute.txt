@@ -1,0 +1,14 @@
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\bin\Debug\netcoreapp3.1\EventHWTask.exe
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\bin\Debug\netcoreapp3.1\EventHWTask.deps.json
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\bin\Debug\netcoreapp3.1\EventHWTask.runtimeconfig.json
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\bin\Debug\netcoreapp3.1\EventHWTask.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\bin\Debug\netcoreapp3.1\EventHWTask.dll
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\bin\Debug\netcoreapp3.1\EventHWTask.pdb
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.csproj.AssemblyReference.cache
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.AssemblyInfo.cs
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.dll
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.pdb
+C:\Users\Onur\source\repos\EventHWTask\EventHWTask\obj\Debug\netcoreapp3.1\EventHWTask.genruntimeconfig.cache
